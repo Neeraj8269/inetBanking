@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <listeners>
+    <listener class-name="testCases.listeners"/>
+    <listener class-name="utilities.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)" parallel="none" preserve-order="true">
+    <classes>
+      <class name="testCases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="AddCustomer"/>
+        </methods>
+      </class> <!-- testCases.TC_AddCustomerTest_003 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

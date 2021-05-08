@@ -1,0 +1,5 @@
+08-05-21-01:25:49.804 [main] INFO  utilities.BaseClass - Details are filled on form
+08-05-21-01:25:51.604 [main] INFO  utilities.BaseClass - Details are submitted successfully
+08-05-21-01:25:51.649 [main] INFO  utilities.BaseClass - Customer registered successfully
+08-05-21-01:25:59.915 [main] INFO  utilities.BaseClass - Logger is working fine
+08-05-21-01:26:00.432 [main] INFO  utilities.BaseClass - Logger is working fine again

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-08T01:25:33 IST" name="Suite" finished-at="2021-05-08T01:26:03 IST" duration-ms="30255">
+    <groups>
+    </groups>
+    <test started-at="2021-05-08T01:25:33 IST" name="Test" finished-at="2021-05-08T01:26:03 IST" duration-ms="30255">
+      <class name="testCases.TC_AddCustomerTest_003">
+        <test-method signature="AddCustomer()[pri:0, instance:testCases.TC_AddCustomerTest_003@7c1e2a9e]" started-at="2021-05-08T01:25:33 IST" name="AddCustomer" finished-at="2021-05-08T01:25:52 IST" duration-ms="19479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCustomer -->
+      </class> <!-- testCases.TC_AddCustomerTest_003 -->
+      <class name="testCases.TC_LoginTest_001">
+        <test-method signature="login()[pri:0, instance:testCases.TC_LoginTest_001@fa36558]" started-at="2021-05-08T01:25:53 IST" name="login" finished-at="2021-05-08T01:26:03 IST" duration-ms="10618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- testCases.TC_LoginTest_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

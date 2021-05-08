@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Suite]]" parallel="none">
+  <listeners>
+    <listener class-name="testCases.listeners"/>
+    <listener class-name="utilities.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)(failed)" parallel="none" preserve-order="true">
+    <classes>
+      <class name="testCases.TC_LoginDDT_002">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="loginDDT" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- testCases.TC_LoginDDT_002 -->
+    </classes>
+  </test> <!-- Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->
